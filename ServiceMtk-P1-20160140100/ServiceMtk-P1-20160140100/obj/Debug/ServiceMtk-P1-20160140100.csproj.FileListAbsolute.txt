@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\ServiceMtk-P1-20160140100\ServiceMtk-P1-20160140100\bin\Debug\ServiceMtk-P1-20160140100.dll.config
+C:\Users\Asus\source\repos\ServiceMtk-P1-20160140100\ServiceMtk-P1-20160140100\bin\Debug\ServiceMtk-P1-20160140100.dll
+C:\Users\Asus\source\repos\ServiceMtk-P1-20160140100\ServiceMtk-P1-20160140100\bin\Debug\ServiceMtk-P1-20160140100.pdb
+C:\Users\Asus\source\repos\ServiceMtk-P1-20160140100\ServiceMtk-P1-20160140100\obj\Debug\ServiceMtk-P1-20160140100.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ServiceMtk-P1-20160140100\ServiceMtk-P1-20160140100\obj\Debug\ServiceMtk-P1-20160140100.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ServiceMtk-P1-20160140100\ServiceMtk-P1-20160140100\obj\Debug\ServiceMtk-P1-20160140100.dll
+C:\Users\Asus\source\repos\ServiceMtk-P1-20160140100\ServiceMtk-P1-20160140100\obj\Debug\ServiceMtk-P1-20160140100.pdb
